@@ -3,8 +3,8 @@ Using Comtrade data extraction API (Python)
 
 You will need to request trade data from the Comtrade data extraction API of the United Nations (UN) and further process, analyze and visualize the data.
 
-## No registration: This is a Public API. Hence, you can use the API as a guest user, i.e. without registration and authentication (which would cost money).
-## API documentation: The UN Comtrade data extraction API is described in detail here: https://comtrade.un.org/data/doc/api. You will need to carefully study this API and the provided explanations.
+### No registration: This is a Public API. Hence, you can use the API as a guest user, i.e. without registration and authentication (which would cost money).
+### API documentation: The UN Comtrade data extraction API is described in detail here: https://comtrade.un.org/data/doc/api. You will need to carefully study this API and the provided explanations.
 
 The file shared contains answers to following questions:
 1.   Ukraines Exports by Partner Country, Then display Ukraine's top 10 export partner countries in terms of the tradevalue.
