@@ -11,4 +11,3 @@ The file shared contains answers to following questions:
 2.   Ukraines Exports by Product, Ukraine's 10 most important export products in 2021
 3.   Dependency of the World on Ukraine's Exports, Currently, many supermarkets around the globe run out of products such as "cooking oil". This is said to be a consequence of the war in Ukraine and the fact that Ukraine is supplying a significant fraction of the worlds total exports of cooking oil. Task is to analyze this question.
 4.   Dependency of the World Function, Create a Python function world_dependency_plot
-5.   Requesting data for many years, Write a Python function comtrade_many_years that is able to download and process data for an arbitrary number of years.
